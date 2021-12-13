@@ -25,6 +25,7 @@ https://guru-ecommerce.herokuapp.com/
  Integrating the PayPal API,
  #
  Product search, carousel,
+ #
  Admin area to manage customers, products & orders
 
 
