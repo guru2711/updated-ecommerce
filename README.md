@@ -10,6 +10,11 @@
 https://guru-ecommerce.herokuapp.com/
 
 
+Admin credentials
+admin@gmail.com
+123456
+
+
 # project contains
 
  React with Functional Components & Hooks,
