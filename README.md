@@ -10,7 +10,7 @@
 https://guru-ecommerce.herokuapp.com/
 
 
-Admin credentials
+Admin credentials : 
 admin@gmail.com
 123456
 
