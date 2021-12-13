@@ -6,17 +6,20 @@
 
 
 
-# Live on https://guru-ecommerce.herokuapp.com/
+# Live on
+https://guru-ecommerce.herokuapp.com/
 
 
-# React with Functional Components & Hooks
-# React-Bootstrap UI library
-# MongoDB database
-# JWT authentication (JSON web tokens)
-# authentication middleware
-# Integrating the PayPal API
-# Product search, carousel
-# Admin area to manage customers, products & orders
+# project contains
+
+ React with Functional Components & Hooks
+ React-Bootstrap UI library
+ MongoDB database
+ JWT authentication (JSON web tokens)
+ authentication middleware
+Integrating the PayPal API
+ Product search, carousel
+ Admin area to manage customers, products & orders
 
 
 
